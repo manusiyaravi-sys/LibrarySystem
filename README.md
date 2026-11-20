@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240083
+# Name:MANUSIYA R
+# Date:20-11-2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="2375" height="1345" alt="se2" src="https://github.com/user-attachments/assets/82489f06-3869-40db-8651-4248f6f70f9c" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="2552" height="1333" alt="se23" src="https://github.com/user-attachments/assets/b4ed992f-62a7-4c11-9f85-8668f74bb733" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="2531" height="1342" alt="selib" src="https://github.com/user-attachments/assets/b95dff9e-7c7b-4ee5-b4c0-6be1f47ec849" />
 
 
 
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="2539" height="1344" alt="se2package" src="https://github.com/user-attachments/assets/b63306a0-1e32-4883-a260-133c4b6fe2e2" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![Uploading se2add.JPG…]()
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="2538" height="1347" alt="se2lib" src="https://github.com/user-attachments/assets/986d3b3e-1e51-4e0d-a586-4b5c5eba35eb" />
 
 
 
