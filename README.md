@@ -100,7 +100,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-![Uploading se2add.JPG…]()
+<img width="2381" height="1349" alt="se2add" src="https://github.com/user-attachments/assets/4c31a7ce-cd1a-461b-9929-8a2cc2b71dbd" />
+
 
 
 
